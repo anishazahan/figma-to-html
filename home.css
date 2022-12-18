@@ -13,6 +13,7 @@ body{
 
 header{
     background-color: #373F51;
+    padding: 20px 0;
 }
 .signIn-btn{
    border-radius: 27.5px;
@@ -33,4 +34,28 @@ header{
 .menu-icon{
     width: 23.46px;
     height: 26.58px;
+}
+
+
+/* ...............  banner-styling ......................... */
+
+
+.banner-heading{
+   
+        line-height: 6rem;
+        font-weight: 900;
+        font-size: 90px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+
+}
+
+.banner-text{
+    width: 549px; 
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+color: #FFFFFF;
+margin: 1rem 0;
 }
