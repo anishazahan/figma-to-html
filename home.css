@@ -132,5 +132,33 @@ margin: 1rem 0;
 }
 
 .land-heading{
-    
+    font-style: italic;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 85px;
+    color: #FFFFFF;
+
+}
+
+.land-content{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 46px;
+    width: 400px;
+    color: #FFFFFF;
+}
+.btn{
+    margin-top: 3rem;
+
+}
+.land-btn{
+    padding: 12px 30px ;
+    border-radius: 28px;
+}
+.land-btn2{
+    padding: 12px 30px ;
+    border-radius: 28px;
+    border: 2px solid #A2D132 ;
+    color: #A2D132;
 }
