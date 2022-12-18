@@ -1,6 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,300;0,400;0,500;0,700;0,800;1,800;1,900&display=swap');
 
+/* ...............  browser reset style ......................... */
+
 body{
     font-family: 'Hanken Grotesk', sans-serif;
     margin: 0;
@@ -8,13 +10,27 @@ body{
     box-sizing: border-box;
 }
 /* ...............  navbar......................... */
-/* .signIn-btn{
-    font-family: 'HK Grotesk';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    
-    text-transform: uppercase;
 
-    color: #FFFFFF;
-} */
+header{
+    background-color: #373F51;
+}
+.signIn-btn{
+   border-radius: 27.5px;
+}
+.play-btn{
+    width: 175px;
+    height: 45px;
+    border-radius: 27.5px;
+    text-transform: uppercase;
+    border: 2px solid #A2D132;
+    color: #A2D132;
+}
+.logo{
+    width: 143px;
+    height: 59px;
+}
+
+.menu-icon{
+    width: 23.46px;
+    height: 26.58px;
+}
