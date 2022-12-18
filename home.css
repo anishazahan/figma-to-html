@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,300;0,400;0,500;0,700;0,800;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,300;0,400;0,500;0,700;0,800;1,800;1,900&family=Oxanium:wght@800&display=swap');
 
 /* ...............  browser reset style ......................... */
 
@@ -66,5 +66,45 @@ margin: 1rem 0;
 .right-img{
     background: url('./assets/Group (2).png');
     /* position: absolute; */
+
+}
+
+/* ...............  watch-section-styling ......................... */
+
+
+.watch-heading{
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 65px;
+
+    color: #FFFFFF;
+
+}
+
+.days-time{
+   
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 31px;
+    color: #A2D132;
+    text-transform: uppercase;
+}
+.time{
+    font-family: 'Oxanium', cursive;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 160px;
+    color: #A2D132;
+}
+.time-colon{
+    font-weight: 600;
+    font-size: 100px;
+  
+    color: #A2D132;
+    margin-top: -35px;
 
 }
