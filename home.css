@@ -44,7 +44,7 @@ header{
    
         line-height: 6rem;
         font-weight: 900;
-        font-size: 90px;
+        font-size: 80px;
         text-transform: uppercase;
         color: #FFFFFF;
 
@@ -58,4 +58,13 @@ font-size: 30px;
 line-height: 45px;
 color: #FFFFFF;
 margin: 1rem 0;
+}
+
+.right-banner{
+    /* position: relative; */
+}
+.right-img{
+    background: url('./assets/Group (2).png');
+    /* position: absolute; */
+
 }
