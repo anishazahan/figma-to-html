@@ -338,3 +338,10 @@ text-align: center;
 
 color: #FFFFFF;
 }
+
+/* ...............  footer-section-styling ......................... */
+
+footer{
+    background-color: #06042A;
+    padding: 25px 0;
+}
