@@ -108,3 +108,29 @@ margin: 1rem 0;
     margin-top: -35px;
 
 }
+
+/* ...............  play2-section-styling ......................... */
+
+.paly2-heading{
+    font-style: italic;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 85px;
+    color: #FFFFFF;
+
+}
+.play2-text{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 20px;
+    /* line-height: 46px; */
+    width: 400px;
+    color: #FFFFFF;
+}
+.left-play2-img{
+    /* background: url(./assets/play2Bg\ \(1\).png); */
+}
+
+.land-heading{
+    
+}
